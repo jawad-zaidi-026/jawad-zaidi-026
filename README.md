@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+![GIF Description]{https://i.gifer.com/VJl.gif}
 <!--
 **jawad-zaidi-026/jawad-zaidi-026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
