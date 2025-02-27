@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img src="https://i.gifer.com/9viJ.gif" width="1000" height = "500">
+<img src="https://i.gifer.com/9viJ.gif" width="500" height = "300">
 <!--
 **jawad-zaidi-026/jawad-zaidi-026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
