@@ -1,10 +1,12 @@
-# 💫 Hi, I'm **Syed Jawad Abbas Zaidi:
+# 💫Hi, I'm Jawad Zaidi
 I’m a **problem solver, tech enthusiast, and natural leader** who thrives in collaborative environments. I always find myself at the center of every group, solving problems **for people—with people**.  
 
 With expertise in **full-stack development** (Django, Python, JavaScript) and **cloud computing** (AWS), I focus on building **scalable and efficient** solutions while continuously learning and innovating.  
 
-🚀 **Beyond Coding:**  
+🚀Beyond Coding
 I strongly believe in **mentorship, teamwork, and optimization** in everything I work on. My passion for **AI/ML and data-driven technologies** drives me to explore automation, deep learning, and intelligent systems that can make a real-world impact.  
+
+🚀I'm currently learning Ai/Ml and Datascience
 
 ## 🌐 Connect with Me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zaixdiii)  
