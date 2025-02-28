@@ -11,7 +11,7 @@ I strongly believe in **mentorship, teamwork, and optimization** in everything I
 ---
 
 ## 🌐 Connect with Me:  
-<p align="center">
+<p>
   <a href="https://instagram.com/zaixdiii"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/jawad-zaidi-4a2649353/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:jawadzaidi026@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
