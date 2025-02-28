@@ -2,7 +2,7 @@
 🚀 Tech Innovator | Problem Solver | Full-Stack Developer | AI/ML Enthusiast
 
 <p align="center">
-  <img src="https://i.gifer.com/9viJ.gif" width="700" height="300">
+  <img src="https://i.gifer.com/9viJ.gif" width="700" height="350">
 </p>
 
 💡 About Me
