@@ -45,11 +45,9 @@ I strongly believe in **mentorship, teamwork, and optimization** in everything I
 ## 📊 GitHub Stats:
 
 <p align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=jawad-zaidi-026&theme=dark&hide_border=false&include_all_commits=false&count_private=false" style="height: auto; width: 45%; max-width: 400px; margin: 10px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jawad-zaidi-026&theme=dark&hide_border=false" style="height: auto + 10px; width: 45%; max-width: 400px; margin: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=jawad-zaidi-026&theme=dark&hide_border=false&include_all_commits=false&count_private=false" style="height: auto; width: 45%; max-width: 400px; min-width: 300px; margin: 10px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jawad-zaidi-026&theme=dark&hide_border=false" style="height: auto; width: 45%; max-width: 400px; min-width: 300px; margin: 10px;">
 </p>
-
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jawad-zaidi-026&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="45%">
 </p>
