@@ -1,17 +1,27 @@
-## Hi there 👋
+🌟 Hi there, I'm Syed Jawad Abbas Zaidi! 👋
+🚀 Tech Innovator | Problem Solver | Full-Stack Developer | AI/ML Enthusiast
 
-<img src="https://i.gifer.com/9viJ.gif" width="500" height = "300">
-<!--
-**jawad-zaidi-026/jawad-zaidi-026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://i.gifer.com/9viJ.gif" width="500" height="300">
+💡 About Me
+I’m a passionate problem solver & technology enthusiast, always looking for ways to innovate, optimize, and create impactful solutions. I thrive on leading teams, tackling challenges, and mentoring others, always pushing for efficiency and precision in every project I work on finding myself at the center of the group solving problem for people with people.
 
-Here are some ideas to get you started:
+🔹 Full-Stack Developer with expertise in Django, Python, JavaScript, MySQL, Bootstrap
+🔹 Cloud & Security Enthusiast – AWS, Authentication, Encryption
+🔹 Passionate About AI/ML & Data Science, focusing on deep learning & automation
+🔹 Tech Leader – Guided teams in Project-Based Learning & Smart India Hackathon
+🔹 Published Researcher – ICIET-2023 & ICITCT-2024 (Cybersecurity & Web Applications)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 I believe that technology is about impact, and I am committed to learning, growing, and building meaningful solutions.
+
+🚀 Tech Stack & Skills
+💻 Languages: Python, C++, JavaScript, HTML, CSS
+🛠 Frameworks & Libraries: Django, Bootstrap 5, Tailwind CSS
+🗄 Databases: MySQL, SQLite
+☁ Cloud & DevOps: AWS, Git, GitHub
+🧠 Core Concepts: DSA, OOP, DBMS, Problem-Solving, Computer Networks
+
+📜 Certifications
+✔ AWS Cloud Computing – IIT Kanpur 🎓 View Certificate
+✔ Digital Productivity – NIIT 🎓 View Certificate
+
+📌 **Let’s connect and build something incredible!** 🚀  
