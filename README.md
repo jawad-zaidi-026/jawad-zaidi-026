@@ -1,7 +1,7 @@
 🌟 Hi there, I'm Syed Jawad Abbas Zaidi! 👋
 🚀 Tech Innovator | Problem Solver | Full-Stack Developer | AI/ML Enthusiast
 
-<img src="https://i.gifer.com/9viJ.gif" width="500" height="300">
+<img src="https://i.gifer.com/9viJ.gif" width="500" height="500">
 💡 About Me
 I’m a passionate problem solver & technology enthusiast, always looking for ways to innovate, optimize, and create impactful solutions. I thrive on leading teams, tackling challenges, and mentoring others, always pushing for efficiency and precision in every project I work on finding myself at the center of the group solving problem for people with people.
 
@@ -19,9 +19,5 @@ I’m a passionate problem solver & technology enthusiast, always looking for wa
 🗄 Databases: MySQL, SQLite
 ☁ Cloud & DevOps: AWS, Git, GitHub
 🧠 Core Concepts: DSA, OOP, DBMS, Problem-Solving, Computer Networks
-
-📜 Certifications
-✔ AWS Cloud Computing – IIT Kanpur 🎓 View Certificate
-✔ Digital Productivity – NIIT 🎓 View Certificate
 
 📌 **Let’s connect and build something incredible!** 🚀  
