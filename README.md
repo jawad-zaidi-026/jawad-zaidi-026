@@ -60,9 +60,8 @@ I strongly believe in **mentorship, teamwork, and optimization** in everything I
 ### ✍️ Random Dev Quote:  
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="100%">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="80%">
 </p>
-
 
 ---
 
