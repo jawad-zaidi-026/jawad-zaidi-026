@@ -6,7 +6,7 @@
 </p>
 
 💡 About Me
-I’m a passionate problem solver & technology enthusiast, always looking for ways to innovate, optimize, and create impactful solutions. I thrive on leading teams, tackling challenges, and mentoring others, always pushing for efficiency and precision in every project I work on finding myself at the center of the group solving problem for people with people.
+I’m a passionate problem solver & technology enthusiast, always looking for ways to innovate, optimize, and create impactful solutions. I thrive on leading teams, tackling challenges, and mentoring others, always pushing for efficiency and precision in every project I work on finding myself at the center of the group solving problems for people with-people.
 
 🔹 Full-Stack Developer with expertise in Django, Python, JavaScript, MySQL, Bootstrap
 🔹 Cloud & Security Enthusiast – AWS, Authentication, Encryption
