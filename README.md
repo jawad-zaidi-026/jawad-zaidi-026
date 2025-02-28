@@ -65,13 +65,9 @@ I strongly believe in **mentorship, teamwork, and optimization** in everything I
 ### ✍️ Random Dev Quote:  
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="80%">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="75%">
 </p>
 
 ---
 
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=jawad-zaidi-026&icon=0&color=0">
-  </a>
-</p>
+
