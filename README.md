@@ -44,16 +44,6 @@ I strongly believe in **mentorship, teamwork, and optimization** in everything I
 
 ## 📊 GitHub Stats:
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=jawad-zaidi-026&theme=dark&hide_border=false&include_all_commits=false&count_private=false" style="height: auto; width: 100%; max-width: 400px;">
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=jawad-zaidi-026&theme=dark&hide_border=false" style="height: auto; width: 100%; max-width: 400px;">
-    </td>
-  </tr>
-</table>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jawad-zaidi-026&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="45%">
 </p>
